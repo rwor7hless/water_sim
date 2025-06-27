@@ -25,5 +25,13 @@
 - Пробел — сброс
 - Shift/Ctrl + мышь — непрерывное возмущение
 
+
+
+
+https://github.com/user-attachments/assets/4004833d-91d2-43fe-8683-248603b230c5
+
+
+
+
 ## Лицензия
 MIT 
